@@ -1,0 +1,3 @@
+C:/Users/Emre/Desktop/cpp ass 1/cmake-build-debug/CMakeFiles/clearvision.dir
+C:/Users/Emre/Desktop/cpp ass 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emre/Desktop/cpp ass 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
